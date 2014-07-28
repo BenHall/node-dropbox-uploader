@@ -5,7 +5,7 @@
     "backup",
     "dropbox"
   ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Ben Hall (Ocelot Uproar Ltd) <Ben@BenHall.me.uk>",
   "main": "app.js",
   "bin": {
