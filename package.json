@@ -1,11 +1,11 @@
 {
   "name": "node-dropbox-uploader",
-  "description": "Simple way to upload files to dropbox on a server. Ideal for quick and easy backups",
+  "description": "Uploads files to a Dropbox folder form the command line. The tool has been designed for usage on remote servers as part of an automated script such as database backups.",
   "keywords": [
     "backup",
     "dropbox"
   ],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Ben Hall (Ocelot Uproar Ltd) <Ben@BenHall.me.uk>",
   "main": "app.js",
   "bin": {
