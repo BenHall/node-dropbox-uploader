@@ -1,9 +1,16 @@
 {
   "name": "node-dropbox-uploader",
+  "description": "Simple way to upload files to dropbox on a server. Ideal for quick and easy backups",
+  "keywords": [
+    "backup",
+    "dropbox"
+  ],
   "version": "0.0.1",
-  "author": "Ocelot Uproar Ltd",
-  "private": true,
+  "author": "Ben Hall (Ocelot Uproar Ltd) <Ben@BenHall.me.uk>",
   "main": "app.js",
+  "bin": {
+    "node-dropbox-uploader": "./bin/node-dropbox-uploader"
+  },
   "engines": {
     "node": "0.10.x",
     "npm": "1.2.x"
