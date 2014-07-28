@@ -1,0 +1,7 @@
+/logs
+.DS_Store
+*.swp
+node_modules
+.nodemonignore
+
+.token

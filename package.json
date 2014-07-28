@@ -1,0 +1,20 @@
+{
+  "name": "node-dropbox-uploader",
+  "version": "0.0.1",
+  "author": "Ocelot Uproar Ltd",
+  "private": true,
+  "main": "app.js",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "scripts": {
+    "start": "app.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "dropbox": "^0.10.3",
+    "minimist": "^0.2.0"
+  },
+  "devDependencies": {}
+}
